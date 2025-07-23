@@ -1,0 +1,29 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fff9f5;
+  color: #4b2e2e;
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  color: #c06c84;
+  font-size: 50px;
+}
+
+h2 {
+  color: #8c4c50;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 20px;
+  max-width: 609px;
+  margin: 20px;
+  line-height: 20px;
+}
+
+.dessert-img {
+  width: 321px;
+}
